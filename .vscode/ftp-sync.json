@@ -1,0 +1,27 @@
+{
+    "remotePath": "/www/ufp-generator.testapp.biz.ua/wp-content/themes/ufp_generator",
+    "host": "176.114.1.160",
+    "username": "bondaryoff",
+    "password": "Bond220384",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": true,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ""
+        ],
+        "path": ""
+    }
+}

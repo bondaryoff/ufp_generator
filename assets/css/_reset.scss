@@ -1,0 +1,68 @@
+* {
+	font: inherit
+}
+
+*,
+::after,
+::before {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box
+}
+
+::after,
+::before {
+	text-decoration: inherit;
+	vertical-align: inherit
+}
+
+body,
+button,
+dl,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+nav,
+ol,
+select,
+textarea,
+ul {
+	margin: 0;
+	padding: 0
+}
+
+a:hover,
+button:hover,
+input[type=submit]:hover {
+	cursor: pointer
+}
+
+a,
+button,
+input,
+select,
+textarea {
+	background: 0 0;
+	color: inherit;
+	border: none;
+	text-transform: none;
+	text-decoration: none
+}
+
+a:focus,
+button:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 0
+}
+
+ul {
+	list-style: none
+}
+p{
+	margin: 0;
+}

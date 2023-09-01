@@ -1,0 +1,24 @@
+@font-face{
+	font-family: "Bookman Old Style";
+	src: url("../fonts/bookmanOldStyleRegular.eot");
+	src: url("../fonts/bookmanOldStyleRegular.eot?#iefix")format("embedded-opentype"),
+			 url("../fonts/bookmanOldStyleRegular.woff")format("woff"),
+			 url("../fonts/bookmanOldStyleRegular.woff2")format("woff2"),
+			 url("../fonts/bookmanOldStyleRegular.ttf")format("truetype"),
+			 url("../fonts/bookmanOldStyleRegular.svg#Bookman Old Style")format("svg");
+	font-weight:normal;
+	font-style:normal;
+	font-display:swap;
+}
+@font-face{
+	font-family: "Bookman Old Style";
+	src: url("../fonts/bookmanOldStylBold.eot");
+	src: url("../fonts/bookmanOldStylBold.eot?#iefix")format("embedded-opentype"),
+			 url("../fonts/bookmanOldStylBold.woff")format("woff"),
+			 url("../fonts/bookmanOldStylBold.woff2")format("woff2"),
+			 url("../fonts/bookmanOldStylBold.ttf")format("truetype"),
+			 url("../fonts/bookmanOldStylBold.svg#Bookman Old Style")format("svg");
+	font-weight:bold;
+	font-style:normal;
+	font-display:swap;
+}
